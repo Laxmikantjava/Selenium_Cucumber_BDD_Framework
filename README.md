@@ -1,2 +1,2 @@
-# Selenium_Cucumber_BDD_Framework
-Selenium_Cucumber_BDD_Framework 
+# CucumberSeleniumExtent
+Cucumber Seelnium Extent Reporter prototype
