@@ -22,6 +22,8 @@ public class test {
     public WebDriver driver;
     @Given("^User is  on google homepage$")
     public void user_is_on_google_homepage() {
+    	
+    	
     	currentProjectPath = System.getProperty("user.dir");
     	System.setProperty("webdriver.chrome.driver",currentProjectPath+ "\\drivers\\chromedriver.exe");
 		driver = new ChromeDriver();
