@@ -13,9 +13,9 @@ import org.junit.Assert;
  *
  */
 public class test {
-	String SEARCH_STRING = "abcd";
-	String SEARCH_STRING_2 = "ABCD";
-	String SEARCH_STRING_3 = "Abcd";
+	String SEARCH_STRING = "Sports";
+	String SEARCH_STRING_2 = "QA";
+	String SEARCH_STRING_3 = "Selenium";
 
 	String HREF = "href";
 	String currentProjectPath;
